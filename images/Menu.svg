@@ -1,0 +1,27 @@
+<svg id="Menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="42" viewBox="0 0 66 42">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="66" height="42" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Menu-2" data-name="Menu" clip-path="url(#clip-path)">
+    <g transform="translate(-294 -17)">
+      <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(294 17)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="66" height="7" stroke="none"/>
+        <rect x="0.5" y="0.5" width="65" height="6" fill="none"/>
+      </g>
+    </g>
+    <g transform="translate(-294 -2)">
+      <g id="Rectangle_6-2" data-name="Rectangle 6" transform="translate(294 17)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="66" height="7" stroke="none"/>
+        <rect x="0.5" y="0.5" width="65" height="6" fill="none"/>
+      </g>
+    </g>
+    <g transform="translate(-294 13)">
+      <g id="Rectangle_6-3" data-name="Rectangle 6" transform="translate(294 17)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="66" height="7" stroke="none"/>
+        <rect x="0.5" y="0.5" width="65" height="6" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
